@@ -194,3 +194,7 @@ Full Sail University
 
 This tool is for educational and project use.
 Redistribution allowed only with permission of the author.
+---
+
+### 📄 License  
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
