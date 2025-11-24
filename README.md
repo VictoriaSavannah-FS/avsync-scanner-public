@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey)
 ![Node](https://img.shields.io/badge/node-%3E=18.0.0-green)
-### 🔽 Download Latest Scanner Release  
+### Download Latest Scanner Release  
 [**Download AVSync Local Scanner v1.0.0**](https://github.com/VictoriaSavannah-FS/avsync-scanner-public/releases/latest/download/AVSync-LocalScanner-v1.0.0.zip)
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
