@@ -5,10 +5,6 @@
 # AV Sync – Local Network Scanner Utility
 [![Release](https://img.shields.io/github/v/release/VictoriaSavannah-FS/avsync-scanner-public?style=flat-square)](https://github.com/VictoriaSavannah-FS/avsync-scanner-public/releases)
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
-![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey)
-![Node](https://img.shields.io/badge/node-%3E=18.0.0-green)
 ### Download Latest Scanner Release  
 [**Download AVSync Local Scanner v1.0.0**](https://github.com/VictoriaSavannah-FS/avsync-scanner-public/releases/latest/download/AVSync-LocalScanner-v1.0.0.zip)
 
