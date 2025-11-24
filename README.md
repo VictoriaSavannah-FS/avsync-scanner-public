@@ -1,5 +1,12 @@
 # AV Sync – Local Network Scanner Utility
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey)
+![Node](https://img.shields.io/badge/node-%3E=18.0.0-green)
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
 **Date:November 23, 2025**
 
 A standalone utility for scanning local network devices and sending them directly to the AV Sync backend for inventory storage. This saves each scan under the correct user account, ensuring devices are grouped and stored per individual user.
