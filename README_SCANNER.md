@@ -1,5 +1,7 @@
 # AV Sync – Local Network Scanner Utility
 
+**Date:November 23, 2025**
+
 A standalone utility for scanning local network devices and sending them directly to the AV Sync backend for inventory storage. This saves each scan under the correct user account, ensuring devices are grouped and stored per individual user.
 
 This tool is designed for beta testers, production teams, and technical users who need fast, automated device discovery.
