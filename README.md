@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platforms-macOS%20%7C%20Windows-lightgrey)
 ![Node](https://img.shields.io/badge/Node-%3E=18.0.0-brightgreen)
 # AV Sync – Local Network Scanner Utility
-[![Release](https://img.shields.io/github/v/release/VictoriaSavannah-FS/avsync-scanner-public?style=flat-square)](https://github.com/VictoriaSavannah-FS/avsync-scanner-public/releases)
+
 
 ### Download Latest Scanner Release  
 [**Download AVSync Local Scanner v1.0.0**](https://github.com/VictoriaSavannah-FS/avsync-scanner-public/releases/latest/download/AVSync-LocalScanner-v1.0.0.zip)
